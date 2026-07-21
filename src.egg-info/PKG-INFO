@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Course Recommender System
+Home-page: https://github.com/suhasinier/Course-Recommender-System
+Author: suhasinier
+Author-email: suhasinier@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+Course-Recommender-System
